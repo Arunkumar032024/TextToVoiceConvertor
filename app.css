@@ -5,3 +5,9 @@
     box-sizing: border-box;
     font-family: "Roboto Slab", serif;
 }
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #6420AA;
+}
