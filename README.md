@@ -1,3 +1,36 @@
-# Text to Voice Convertor
-<br>
-Developing a text-to-voice converter with JavaScript presents numerous advantages. Leveraging JavaScript's accessibility and versatility, developers can create dynamic and interactive user interfaces for entering and processing text inputs. Utilizing JavaScript libraries like Web Speech API enables seamless integration of speech synthesis functionality, allowing users to hear the converted text in natural-sounding voices. Moreover, JavaScript's asynchronous nature facilitates real-time processing, enhancing user experience. With cross-browser compatibility and support for modern web standards, JavaScript ensures broad accessibility across various devices and platforms. Additionally, developers can easily customize the converter's features and design to suit specific user preferences, making it a versatile and user-friendly tool.
+# Text to Voice Converter
+
+A minimalist and easy-to-use web application that converts text into voice. Built using pure HTML, CSS, and JavaScript, this project demonstrates the use of browser-based text-to-speech technology.
+
+## Features
+
+- User-friendly interface with a visually appealing design.
+- Converts any entered text into speech.
+- Language and voice customization options.
+- Lightweight and fast as it uses vanilla JavaScript.
+
+## How It Works
+
+1. Enter the text you want to convert into speech in the input box.
+2. Select the desired language or voice from the dropdown menu.
+3. Click the **Voice** button to listen to the text being spoken.
+
+## Tech Stack
+
+- **HTML**: Structure of the web application.
+- **CSS**: Styling and layout for a visually engaging interface.
+- **JavaScript**: Adds interactivity and handles the text-to-speech functionality using the Web Speech API.
+
+## Try out it
+
+[Click here to view the project live!](https://arunkumar032024.github.io/TextToVoiceConvertor/)
+
+## Project Screenshot
+
+![Text to Voice Converter](./image/preview.png)
+
+## How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/TextToVoiceConverter.git
